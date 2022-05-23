@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: f916dab308c8242f49ec07a265245e47
+  - enabled: 1
     path: Assets/Scenes/BobsBurgerMaze.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
